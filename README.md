@@ -21,7 +21,7 @@ Location Focus: Target specific Area/Location and Day/Night periods for Current 
 
 Geographic Hotspots: Identify Total Casualties and Total Accidents by Location for precise resource deployment.
 
-2. Technical Details
+2.Technical Details
 Tool: Microsoft Power BI
 
 Data Period: 2021 and 2022
